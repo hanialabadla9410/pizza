@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/pizza/static/css/main.c798028c.css",
+    "main.js": "/pizza/static/js/main.cfd715c5.js",
+    "static/media/home-board.png": "/pizza/static/media/home-board.3c907cba62982f182f28.png",
+    "static/media/home-pizza.png": "/pizza/static/media/home-pizza.02203eee3b61e9d7a471.png",
+    "static/media/about-img.png": "/pizza/static/media/about-img.7c77bbcfb677b67132f5.png",
+    "static/media/popular-dish.png": "/pizza/static/media/popular-dish.9388e79cbc5b6ac01787.png",
+    "static/media/popular-2.png": "/pizza/static/media/popular-2.f1976b42e78e8cb2c0e2.png",
+    "static/media/recipe-img.png": "/pizza/static/media/recipe-img.cebc8f796b55abc20575.png",
+    "static/media/popular-3.png": "/pizza/static/media/popular-3.880ba997bd15ea13a157.png",
+    "static/media/popular-1.png": "/pizza/static/media/popular-1.ae4fdd57a19156def03f.png",
+    "static/media/contact-img.png": "/pizza/static/media/contact-img.3ddc0eba01764c475258.png",
+    "static/media/sticker-pizza.svg": "/pizza/static/media/sticker-pizza.a20c95cb3eca1276ab44162dd96b0182.svg",
+    "static/media/product-4.png": "/pizza/static/media/product-4.773d26dec437fc4dc9a7.png",
+    "static/media/product-1.png": "/pizza/static/media/product-1.d6c5b3af114948d1fd3f.png",
+    "static/media/product-2.png": "/pizza/static/media/product-2.33300b46ff0ddab69669.png",
+    "static/media/product-3.png": "/pizza/static/media/product-3.5c131e9eb759ecd4814a.png",
+    "static/media/product-5.png": "/pizza/static/media/product-5.49d1ff80c36648ebe102.png",
+    "static/media/home-pepperoni.png": "/pizza/static/media/home-pepperoni.cec4fa83abe1a95587b8.png",
+    "static/media/home-olive.png": "/pizza/static/media/home-olive.5ad37eb01f1f0abb29bd.png",
+    "static/media/home-mushroom.png": "/pizza/static/media/home-mushroom.ee1b578c42ff33ef7ed0.png",
+    "static/media/home-tomato.png": "/pizza/static/media/home-tomato.877ee73f7f3c2fe4d65c.png",
+    "static/media/sticker-cheese.svg": "/pizza/static/media/sticker-cheese.1f9c480aa1c914c85d787e8521cc5927.svg",
+    "static/media/home-leaf-2.png": "/pizza/static/media/home-leaf-2.cf689dca6ecb07035bde.png",
+    "static/media/home-leaf-1.png": "/pizza/static/media/home-leaf-1.d6f87d00177f8ba1b6f7.png",
+    "static/media/recipe-meat.png": "/pizza/static/media/recipe-meat.ae7481b91b1d4ac0cb49.png",
+    "static/media/recipe-flour.png": "/pizza/static/media/recipe-flour.4ebe4a106cddeac6cc65.png",
+    "static/media/sticker-leaf.svg": "/pizza/static/media/sticker-leaf.0a32895dcf05f7a96acfe6c818a802e0.svg",
+    "static/media/recipe-tomato.png": "/pizza/static/media/recipe-tomato.b6c222109a2043565b9e.png",
+    "static/media/recipe-cheese.png": "/pizza/static/media/recipe-cheese.afa8fba0f02280a90f4c.png",
+    "static/media/recipe-sauces.png": "/pizza/static/media/recipe-sauces.e4d45992e6e0f8f97c5f.png",
+    "static/media/logo-pizza.svg": "/pizza/static/media/logo-pizza.1759f64b37b50329eb91ca7e88f3e171.svg",
+    "index.html": "/pizza/index.html",
+    "main.c798028c.css.map": "/pizza/static/css/main.c798028c.css.map",
+    "main.cfd715c5.js.map": "/pizza/static/js/main.cfd715c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c798028c.css",
+    "static/js/main.cfd715c5.js"
+  ]
+}
